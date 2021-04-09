@@ -21,7 +21,7 @@ Convert the following designs to a React app.
 
 
 ## Design
-- [Design](https://www.figma.com/file/XmLxW928QcDblZul5dGpLM/Xfive-Gallery-Test) is available in Figma
+- [Design](https://www.figma.com/file/XmLxW928QcDblZul5dGpLM/Xfive-Gallery-Test) is available in Figma. If you haven't already, sign up for a free Figma account, so you can inspect the design.
 - [Prototype](https://www.figma.com/proto/XmLxW928QcDblZul5dGpLM/Xfive-Gallery-Test?node-id=1%3A2&viewport=73%2C86%2C0.5&scaling=min-zoom)
 
 The following images are used in the design:
