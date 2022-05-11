@@ -13,7 +13,7 @@ Convert the following designs to a React app.
 ## Requirements
 1. Create project using _Create React App_.
 1. Use TypeScript.
-1. Use BEM with the SCSS syntax for styling.
+1. Use your preferred way of writing CSS for a React app
 1. Make it responsive according your best judgement. The 1920px resolution of the design is a reference resolution we compare your conversion to.
 1. Create a hover effect for the image thumbnails.
 1. Create a simple custom overlay for photos.
